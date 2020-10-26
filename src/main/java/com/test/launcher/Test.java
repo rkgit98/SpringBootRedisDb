@@ -12,5 +12,7 @@ public class Test {
         product.setManufacturer("samsung");
 
         System.out.println(product);
+
+        System.out.println("Hello Message");
     }
 }
